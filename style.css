@@ -1,0 +1,41 @@
+/* Custom styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #007bff; /* Bootstrap primary color */
+}
+
+/* Font color and family styles */
+.font-red {
+    color: #ff0000; /* Red color */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.font-blue {
+    color: #0000ff; /* Blue color */
+    font-family: Arial, sans-serif;
+}
+
+/* Div positioning and styles */
+.positioned-div {
+    position: relative;
+    width: 200px;
+    height: 100px;
+    background-color: #f0f0f0; /* Light gray background */
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.positioned-div-absolute {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+.positioned-div-relative {
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
